@@ -1,7 +1,4 @@
 body { 
-    background-image: url(images/universe.jpg); 
-    background-size: 100% auto; 
-    background-size: cover;
     color: black;
     display: -webkit-box;
     margin: auto;
